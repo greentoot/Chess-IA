@@ -60,8 +60,7 @@ python play.py
 ### Tester le mode minichess :
 ```bash
 python play_huma.py```
-ou
-
+```
 
 ## ⚙ Paramètres intéressants
 
